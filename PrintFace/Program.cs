@@ -31,7 +31,7 @@ namespace PrintFace
         /// </summary>
         public static void PrintFace()
         {
-            Console.WriteLine(" +\"\"\"\"\"+\r\n" + "(| o o |)\r\n" + " |  ^  |\r\n" + " | '-' |\r\n" + " +-----+");
+            Console.WriteLine(" +\"\"\"\"\"+\r\n(| o o |)\r\n |  ^  |\r\n | '-' |\r\n +-----+");
         }
     }
 }
